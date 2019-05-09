@@ -1,8 +1,9 @@
-#importing the required libraries
+i#importing the required libraries
 import pandas as pd     # For data manipulation and analysis
 import numpy as np      # For Scientific computing
 import tweepy           # For Accessing Twitter's API
 import matplotlib.pyplot as plt    # For plotting and visualization:
+import random
 
 #Loading twitter consumer and access token's
 consumer_key = ""
