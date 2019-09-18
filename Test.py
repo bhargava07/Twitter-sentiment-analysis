@@ -17,6 +17,7 @@ def delete_item(upload_date, measurement_file):
     )
     item = response['item']
     print(item)
+    print(upload_date)
 
 
 if __name__ == "__main__":
